@@ -40,11 +40,12 @@ dependencies:
   smooth_page_indicator:
   google_fonts:
   font_awesome_flutter:
-
+  sqlite3_flutter_libs: ^0.5.29+1
   sqflite:
   sqflite_common_ffi:
   path_provider:
   path:
+
   image_picker:
   barcode_widget:
   mobile_scanner:
